@@ -12,7 +12,8 @@ About me:
 
 ### Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET Core](https://camo.githubusercontent.com/348ff6e3bd21bde5de65ded19d21d568c1cdabd9e63682b433deaa94e426d31f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e4554253230436f72652d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465)
+![.Net](https://camo.githubusercontent.com/116f2dc5f0ad60ab1ba1c71b13575fb16fcdee224b11c4f9d69a090819849bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4153502e4e45542d6332303366633f7374796c653d666f722d7468652d6261646765266c6f676f3d6173702e6e6574266c6f676f436f6c6f723d7768697465)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
