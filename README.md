@@ -1,7 +1,3 @@
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/MaksBrat/MaksBrat/blob/main/assets/fate-heavens-feel3-heavens-feel3.gif?raw=true">
-</div>
-
 ### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 About me:
