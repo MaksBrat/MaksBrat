@@ -2,7 +2,9 @@
 
 About me:
 --------------
-### Hi there, I'm a Full-Stack .NET developer and I absolutely love what I do. I've been passionate about programming for as long as I can remember and have always been drawn to the challenge of finding the best solutions to complex problems. One of the things I really love about my job is the opportunity to work in a team. I'm a real team player and I thrive in collaborative environments. I believe that working with others is the best way to achieve the best results, and I'm always eager to learn from my colleagues and to share my own knowledge and experience.
+### Hi there, I'm a Full-Stack .NET developer and I absolutely love what I do. I've been passionate about programming for as long as I can remember and have always been drawn to the challenge of finding the best solutions to complex problems. 
+
+### One of the things I really love about my job is the opportunity to work in a team. I'm a real team player and I thrive in collaborative environments. I believe that working with others is the best way to achieve the best results, and I'm always eager to learn from my colleagues and to share my own knowledge and experience.
 
 * 🤝 Open to collaborating on interesting projects
 
