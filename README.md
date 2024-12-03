@@ -25,7 +25,7 @@ About me:
 <p align="left"> <a href="https://www.github.com/MaksBrat" target="_blank" rel="noreferrer">
   <a href="https://www.linkedin.com/in/maksym-bratus-b51389260/" target="_blank" rel="noreferrer"><img 
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://t.me/mbmaksbrat"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png"  width="32" height="32">  </a></p>
+  <a href="https://t.me/usermakson"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png"  width="32" height="32">  </a></p>
 
 ### Badges
 
